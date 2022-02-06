@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-This is a central space for user guide/manuals of some of the tools hosted on the main github page [editor on GitHub](https://github.com/WeiAkaneDeng).
+This is a central space for user guide/manuals of some of the tools hosted on the main [github page](https://github.com/WeiAkaneDeng).
 
 ### Support or Contact
 
